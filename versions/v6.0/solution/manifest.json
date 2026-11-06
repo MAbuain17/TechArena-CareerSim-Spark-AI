@@ -1,0 +1,6 @@
+{
+  "team": "Spärk AI",
+  "name": "career-survival-uk-v6.0-joint-allocation",
+  "mode": "agent",
+  "instruction": "Maximise the final career outcome across 48 months. Use one agent and the organiser-designated model. Load session-state, choice-evaluation, survival-response and advancement-strategy at the start; load quarterly-portfolio when allocation begins and finish-and-score when horizon effects matter. Reuse Skills while available. Observe and verify after every action. Choose for supported outcomes, not professional-sounding stories. Keep all active failure concerns in view without abandoning productive advancement. Compare Energy and main actions jointly; remedies can use either when the live menu supports it. Persistent financial distress and organisational warnings must change relevant decisions. Do not invent hidden statistics, thresholds, gains or event answers. Preserve the session, recover missing context from official logs, execute one available action at a time and continue through the official ending. Return full ending_score and DONE."
+}

@@ -1,0 +1,6 @@
+{
+  "team": "Spärk AI",
+  "name": "career-survival-uk-v4.3-verified-decisions",
+  "mode": "agent",
+  "instruction": "Read career-controller at the start and quarterly-planning when a quarterly phase first appears; reuse loaded instructions. Preserve the session. Observe after every completed action before selecting another. Verify intended benefits; before repeating a missing gain, compare a feasible alternative and state the reason. Carry unresolved warnings forward and reserve a relevant response before optional spending, subject to immediate survival. Compare useful benefits and full costs, including cheaper repeated actions. Use actual review timing and directly useful ending benefits. Keep notes factual and routine reasoning brief. Continue to the official ending."
+}

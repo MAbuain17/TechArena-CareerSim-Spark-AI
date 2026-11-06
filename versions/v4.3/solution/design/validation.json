@@ -1,0 +1,37 @@
+{
+  "candidate": "career-survival-uk-v4.3-verified-decisions",
+  "checks": {
+    "official_local_play_structure": "pass",
+    "official_manifest": "pass",
+    "official_skill_frontmatter": "pass",
+    "v4_2_files_unchanged": "pass",
+    "source_archive_preserved": "pass",
+    "credential_scan": "pass"
+  },
+  "final_submission_blockers": [
+    "presentation.mp4 is not included"
+  ],
+  "gameplay_test": "not run",
+  "word_count": {
+    "v4_2_skills": 2290,
+    "v4_3_skills": 2000
+  },
+  "skill_sha256": {
+    "career-controller": "dbd6892b1e563e83f5d145518491782328bb6c77fa2e91934167d308814272fb",
+    "quarterly-planning": "f110563e1a463c0db1beb14508578565a926f981988398eb14d487f10239493b"
+  },
+  "offline_review": {
+    "method": "Independent agent applied the candidate instructions to eight synthetic decision cases; no game calls",
+    "cases": {
+      "cheaper_repeated_action": "pass",
+      "mitigation_after_recovery": "pass",
+      "absent_gain_alternative": "pass",
+      "final_phase_valuation": "pass",
+      "timeout_reconciliation": "pass",
+      "repeat_for_other_verified_benefit": "pass",
+      "mitigation_not_clearance": "pass",
+      "directional_effect_uncertainty": "pass"
+    },
+    "limitation": "Not evaluated with the designated competition model or a live simulation"
+  }
+}

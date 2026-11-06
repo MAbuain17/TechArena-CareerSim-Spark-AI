@@ -1,0 +1,6 @@
+{
+  "team": "Spärk AI",
+  "name": "career-survival-uk-v5.1-evidence-priorities",
+  "mode": "agent",
+  "instruction": "Read career-controller at the start and quarterly-planning when quarterly allocation begins; reuse them while available. Maximise the 48-month career outcome in one preserved session using only official game tools and current-run evidence. Observe, check every active survival concern, compare actual options, execute once and verify. Persistent financial distress and organisational warnings remain active across unrelated events. Override a concern only for relevant observed improvement or a more urgent competing threat; speculative growth is not evidence of recovery. Preserve resources for relevant urgent remedies before optional spending. Compare recurring commitments and actual outcomes, not imagined benefits. Pursue sustainable development when concerns permit. Keep routine reasoning brief and carry concise factual checkpoints in notes. Recover missing context from observation and recent logs; never restart. Follow live phases through the official ending and return the full ending_score followed by DONE."
+}

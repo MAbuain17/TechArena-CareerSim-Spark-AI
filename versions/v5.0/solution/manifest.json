@@ -1,0 +1,6 @@
+{
+  "team": "Spärk AI",
+  "name": "career-survival-uk-v5.0-adaptive-policy",
+  "mode": "agent",
+  "instruction": "Read career-controller at the start and quarterly-planning on entering quarterly allocation; reuse them while available. Maximise the career outcome across 48 months. Preserve this session and use only official game tools and current-run evidence. On each turn: observe; identify the most consequential current need; compare the actual options and their full costs; take one action; verify before acting again. Protect against credible early failure, including weak performance, without treating uncertainty as a reason to stop developing. Match a response to the concern it can actually address. Carry only the current objective, review feedback, open concerns and confirmed results in concise notes. Replan at reviews, quarterly allocation or material new evidence; keep routine decisions brief. After context loss recover state and recent notes, never restart. Follow the live phase order through the official ending and return its full ending_score followed by DONE."
+}

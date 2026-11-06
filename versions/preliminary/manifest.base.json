@@ -1,0 +1,5 @@
+{
+  "name": "adaptive-career-policy-v0.1",
+  "mode": "agent",
+  "instruction": "Use career-controller throughout this game. Consult quarterly-planning when the observed phase offers quarterly Energy or main actions; both Skills are instructions for this one agent. Follow the official observe-decide-take_action loop, keep the current session, and continue until an ending is confirmed. Base decisions on the public handbook and current-run observations and logs. Keep notes concise, factual, and clear about uncertainty."
+}

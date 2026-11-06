@@ -1,0 +1,6 @@
+{
+  "team": "Spärk AI",
+  "name": "career-survival-uk-v4.2-risk-follow-through",
+  "mode": "agent",
+  "instruction": "Read career-controller at the start and quarterly-planning when a quarterly phase first appears; reuse their instructions while available. Preserve the current session. Use current official observations to choose one feasible action, then verify its result. Carry unresolved review feedback, risk warnings and missing gains forward. After incidents or persistent risk warnings, prioritise relevant mitigation over optional exposure-increasing growth unless another immediate survival threat takes precedence. Compare remaining Energy and main-action opportunities before leaving a phase. Keep notes concise and factual. Continue autonomously until the official ending."
+}

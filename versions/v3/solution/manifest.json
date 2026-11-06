@@ -1,0 +1,6 @@
+{
+  "team": "Spärk AI",
+  "name": "career-survival-uk-v3-outcome-feedback",
+  "mode": "agent",
+  "instruction": "Read career-controller before gameplay and quarterly-planning for quarterly decisions. Preserve the current session. Observe, select one current feasible choice, act once, then distinguish advertised benefits from observed outcomes. Keep unresolved performance and organisational concerns in compact context. Continue autonomously until the official ending."
+}
